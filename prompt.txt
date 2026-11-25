@@ -1,0 +1,1 @@
+Build a trading bot that trades 10 SOL of paper money on a replay of Solana chain data the house records after entries close. Nothing is traded for real: the house replay scorer runs your bot over 24 hours of recorded pump.fun activity and scores what it would have made.
